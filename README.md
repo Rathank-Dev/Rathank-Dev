@@ -31,11 +31,11 @@
 
 ---
 
-### Skill
+### My Skill
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Offensive** | ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite) ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit) ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap) ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark) ![AND OTHER] |
+| **Offensive** | ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite) ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit) ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap) ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus) ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp) |
 | **Spoken** | ![Khmer](https://img.shields.io/badge/Khmer-Native-FF5F5F?style=flat-square) ![English](https://img.shields.io/badge/English-Basic-blue?style=flat-square) |
 
