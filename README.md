@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=30&pause=1000&color=FF5F5F&center=true&vCenter=true&width=500&lines=Rathank+Phoung;Cybersecurity+Researcher;Full-stack+Web+Dev;Exploit+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=30&pause=1000&color=FF5F5F&center=true&vCenter=true&width=500&lines=Rathank+Phoung;Cybersecurity+Researcher;+Web+Dev;Exploit+Developer)
 
 ---
 
