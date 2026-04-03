@@ -1,50 +1,28 @@
+<div align="center">
 
-
-
-
-<!-- <div align="center">
+> **"Just F**king Hack and Make Money"**
 
 ---
 
-### ABOUT ME
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/26111.jpg" width="100%" style="border-radius:15px;" />
-
-<br/>
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Education</h4>
-      <ul>
-        <li><b>Grade 12 Student</b></li>
-        <li>High School in Cambodia</li>
-        <li>2025 - Present</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Location</h4>
-      <ul>
-        <li>Phnom Penh, Cambodia 🇰🇭</li>
-        <li>Active since 2017</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* **Name:** Rathank Phoung (KKG-Z)
+* **Role:** Cybersecurity Researcher & Web Dev
+* **Location:** Phnom Penh, Cambodia 🇰🇭
 
 ---
 
-### STRATEGIC ARSENAL
+###  STRATEGIC ARSENAL
 
-| Category | Tools & Technologies |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Offensive** | ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite) ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit) ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap) ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark) |
-| **Web Stack** | ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3) ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python_(Basic)-0d1117?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/C++_(Basic)-0d1117?style=for-the-badge&logo=cplusplus) ![C#](https://img.shields.io/badge/C%23_(Basic)-0d1117?style=for-the-badge&logo=csharp) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql) |
+| ** Offensive** | Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark |
+| ** Web dev** | HTML5, CSS3, PHP, Laravel, JavaScript, Node.js |
+| ** Languages** | Python (Basic), C++ (Basic), C# (Basic), SQL |
+| ** Spoken** | Khmer (Native), English (Basic), Japanese (Learning) |
 
 ---
 
-### CONNECT
-[![Discord](https://img.shields.io/badge/Discord-rathank000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1171107324933443616)
-[![Telegram](https://img.shields.io/badge/Telegram-@phoungrathank-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phoungrathank)
+### CONNECTION
+[![Discord](https://img.shields.io/badge/Discord-rathank000-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1171107324933443616)
+[![Telegram](https://img.shields.io/badge/Telegram-@phoungrathank-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/phoungrathank)
 
-</div> -->
+</div>
