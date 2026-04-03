@@ -4,19 +4,17 @@
 
 ---
 
-* **Name:** Rathank Phoung (KKG-Z)
+* **Name:** Rathank Phoung
 * **Role:** Cybersecurity Researcher & Web Dev
 * **Location:** Phnom Penh, Cambodia 🇰🇭
 
 ---
 
-###  STRATEGIC ARSENAL
+### Skill
 
-| Category | Skills & Tools |
 | :--- | :--- |
 | ** Offensive** | Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark |
-| ** Web dev** | HTML5, CSS3, PHP, Laravel, JavaScript, Node.js |
-| ** Languages** | Python (Basic), C++ (Basic), C# (Basic), SQL |
+| ** Languages** | Python (lowwwwwwwwww), C++ (lowwwwwwwwww), C# (lowwwwwwwwww) , HTML5, CSS3, PHP, Laravel, JavaScript, Node.js  |
 | ** Spoken** | Khmer (Native), English (Basic), Japanese (Learning) |
 
 ---
