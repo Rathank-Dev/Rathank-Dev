@@ -1,13 +1,11 @@
 <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/d0d9027f-d764-490c-9ab8-ddbb1a676515" /><div align="center">
 
-#  Rathank Phoung
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=30&pause=1000&color=FF5F5F&center=true&vCenter=true&width=500&lines=Rathank+Phoung;Cybersecurity+Researcher;Full-stack+Web+Dev)
 
 ---
 
 ### 👤 ABOUT ME
-[![About]([]([<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/51dcde68-b9ce-48dc-93ba-2dcd6cf8127a" />
-)](https://4kwallpapers.com/images/walls/thumbs_3t/26111.jpg))](https://github.com/Rathank-Dev)
+[![About]([](https://4kwallpapers.com/images/walls/thumbs_3t/26111.jpg)](https://github.com/Rathank-Dev)
 
 <table border="0">
   <tr>
