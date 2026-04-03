@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Skill
+### Skill
 
 | Category | Tools & Technologies |
 | :--- | :--- |
