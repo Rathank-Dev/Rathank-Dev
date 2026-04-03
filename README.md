@@ -1,129 +1,54 @@
-<section class="about-container glass">
-  <div class="header-content">
-    <p class="about-tag">ABOUT ME</p>
-    <h1 class="name-title">Rathank <span class="accent">Phoung</span></h1>
-    <p class="bio-text">
-      📍 Based in <strong>Phnom Penh, Cambodia</strong> 🇰🇭
-    </p>
-  </div>
+<div align="center">
 
-  <p class="description">
-    I am a passionate <strong>Cybersecurity Researcher</strong> and <strong>Web Dev</strong>. 
-  </p>
+# ⚡ [SYSTEM_OVERRIDE]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=30&pause=1000&color=FF5F5F&center=true&vCenter=true&width=500&lines=Rathank+Phoung;Cybersecurity+Researcher;Full-stack+Web+Dev)
 
-  <div class="info-grid">
-    <div class="info-card">
-      <h3>🎓 Education</h3>
-      <p><strong>Grade 12 Student</strong><br>High School in Cambodia (2025-Present)</p>
-    </div>
+---
 
-    <div class="info-card">
-      <h3>🛠️ Skills & Arsenal</h3>
-      <div class="skill-tags">
-        <span class="tag lang">PHP (Laravel)</span>
-        <span class="tag lang">Node.js</span>
-        <span class="tag lang">C#</span>
-        <span class="tag sys">Kali Linux</span>
-        <span class="tag sys">Hyprland</span>
-        <span class="tag tool">Burp Suite</span>
-        <span class="tag tool">sqlmap</span>
-        <span class="tag tool">Metasploit</span>
-      </div>
-    </div>
-  </div>
-</section>
+### 👤 ABOUT ME
+[![About](https://raw.githubusercontent.com/rathank-dev/rathank-dev/main/about-card.svg)](https://github.com/Rathank-Dev)
 
-<style>
-  :root {
-    --accent-color: #ff5f5f;
-    --bg-card: rgba(20, 20, 20, 0.7);
-    --text-main: #e0e0e0;
-    --glow: rgba(255, 95, 95, 0.3);
-  }
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Education</h4>
+      <ul>
+        <li><b>Grade 12 Student</b></li>
+        <li>High School in Cambodia</li>
+        <li>2025 - Present</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📍 Location</h4>
+      <ul>
+        <li>Phnom Penh, Cambodia 🇰🇭</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  .glass {
-    background: var(--bg-card);
-    backdrop-filter: blur(20px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 30px;
-    padding: 3rem;
-    color: var(--text-main);
-    max-width: 800px;
-    margin: 2rem auto;
-    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
-    font-family: 'Inter', sans-serif;
-  }
+---
 
-  .about-tag {
-    color: var(--accent-color);
-    font-weight: 800;
-    letter-spacing: 3px;
-    font-size: 0.8rem;
-    margin-bottom: 0.5rem;
-    text-transform: uppercase;
-  }
+### 🛠️ SKILLS & ARSENAL
 
-  .name-title {
-    font-size: 3rem;
-    margin: 0;
-    font-weight: 900;
-    letter-spacing: -1px;
-  }
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat&logo=php) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs) ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat&logo=csharp) |
+| **Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat&logo=kalilinux) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat&logo=burpsuite) ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat&logo=metasploit) |
+| **Systems** | ![WSL](https://img.shields.io/badge/WSL2-0d1117?style=flat&logo=windows) ![Hyprland](https://img.shields.io/badge/Hyprland-0d1117?style=flat&logo=archlinux) |
 
-  .accent { color: var(--accent-color); text-shadow: 0 0 15px var(--glow); }
+---
 
-  .bio-text { color: #888; margin-top: 0.5rem; font-size: 1.1rem; }
+### 📊 SYSTEM ANALYTICS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rathank-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff5f5f&text_color=e0e0e0&icon_color=ff5f5f" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathank-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff5f5f&text_color=e0e0e0" width="48%" />
+</p>
 
-  .description {
-    line-height: 1.8;
-    font-size: 1.1rem;
-    margin: 2rem 0;
-    color: #bbb;
-  }
+---
 
-  .brand {
-    color: #fff;
-    border-bottom: 2px solid var(--accent-color);
-  }
+### 📡 CONNECT
+[![Discord](https://img.shields.io/badge/Discord-rathank000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1171107324933443616)
+[![Telegram](https://img.shields.io/badge/Telegram-@phoungrathank-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phoungrathank)
 
-  .info-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
-    margin-top: 2rem;
-  }
-
-  .info-card h3 {
-    font-size: 1.2rem;
-    margin-bottom: 1rem;
-    color: #fff;
-  }
-
-  .skill-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-
-  .tag {
-    background: rgba(255, 255, 255, 0.05);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    padding: 5px 12px;
-    border-radius: 12px;
-    font-size: 0.85rem;
-    transition: all 0.3s ease;
-    cursor: default;
-  }
-
-  .tag:hover {
-    background: var(--accent-color);
-    color: #000;
-    transform: translateY(-3px);
-    box-shadow: 0 5px 15px var(--glow);
-  }
-
-  @media (max-width: 600px) {
-    .info-grid { grid-template-columns: 1fr; }
-    .name-title { font-size: 2.2rem; }
-  }
-</style>
+</div>
