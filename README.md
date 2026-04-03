@@ -1,21 +1,42 @@
 <div align="center">
-
 > **"Just F**king Hack and Make Money"**
 
 ---
 
-* **Name:** Rathank Phoung
-* **Role:** Cybersecurity Researcher & Web Dev
-* **Location:** Phnom Penh, Cambodia 🇰🇭
+### ABOUT ME
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/26111.jpg" width="100%" style="border-radius:15px;" />
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Education</h4>
+      <ul>
+        <li><b>Grade 12 Student</b></li>
+        <li>High School in Cambodia</li>
+        <li>2025 - Present</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Location</h4>
+      <ul>
+        <li>Phnom Penh, Cambodia 🇰🇭</li>
+        <li>Active since 2021</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Skill
 
+| Category | Tools & Technologies |
 | :--- | :--- |
-| ** Offensive** | Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark |
-| ** Languages** | Python (lowwwwwwwwww), C++ (lowwwwwwwwww), C# (lowwwwwwwwww) , HTML5, CSS3, PHP, Laravel, JavaScript, Node.js  |
-| ** Spoken** | Khmer (Native), English (Basic), Japanese (Learning) |
+| **Offensive** | Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark |
+| **Languages** | Python (lowwwwwwwwww nigge), C++ (lowwwwwwwwww nigge), C# (lowwwwwwwwww nigge), HTML5, CSS3, PHP, Laravel, JavaScript, Node.js |
+| **Spoken** | Khmer (Native), English (Basic), Japanese (Learning) |
 
 ---
 
