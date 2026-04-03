@@ -42,7 +42,7 @@
 
 ---
 
-### 📡 CONNECT
+### CONNECT
 [![Discord](https://img.shields.io/badge/Discord-rathank000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1171107324933443616)
 [![Telegram](https://img.shields.io/badge/Telegram-@phoungrathank-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phoungrathank)
 
