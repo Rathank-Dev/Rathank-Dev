@@ -5,7 +5,7 @@
 ---
 
 ### 👤 ABOUT ME
-[![About]([](https://4kwallpapers.com/images/walls/thumbs_3t/26111.jpg)](https://github.com/Rathank-Dev)
+(https://4kwallpapers.com/images/walls/thumbs_3t/26111.jpg)
 
 <table border="0">
   <tr>
