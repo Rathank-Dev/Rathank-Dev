@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚡ [SYSTEM_OVERRIDE]
+#  Rathank Phoung
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=30&pause=1000&color=FF5F5F&center=true&vCenter=true&width=500&lines=Rathank+Phoung;Cybersecurity+Researcher;Full-stack+Web+Dev)
 
 ---
 
 ### 👤 ABOUT ME
-[![About](https://raw.githubusercontent.com/rathank-dev/rathank-dev/main/about-card.svg)](https://github.com/Rathank-Dev)
+[![About]([https://raw.githubusercontent.com/rathank-dev/rathank-dev/main/about-card.svg](https://avatars.githubusercontent.com/u/186038166?v=4))](https://github.com/Rathank-Dev)
 
 <table border="0">
   <tr>
