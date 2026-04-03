@@ -2,7 +2,7 @@
 
 <img width="460" height="460" alt="Rathank Logo" src="https://github.com/user-attachments/assets/d0d9027f-d764-490c-9ab8-ddbb1a676515" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=30&pause=1000&color=FF5F5F&center=true&vCenter=true&width=500&lines=Rathank+Phoung;Cybersecurity+Researcher;Full-stack+Web+Dev)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=30&pause=1000&color=FF5F5F&center=true&vCenter=true&width=500&lines=Rathank+Phoung;Cybersecurity+Researcher;Full-stack+Web+Dev;Exploit+Developer)
 
 ---
 
@@ -33,13 +33,14 @@
 
 ---
 
-### 🛠️ SKILLS & ARSENAL
+### 🛠️ STRATEGIC ARSENAL (20+ SKILLS)
 
-| Category | Tools & Languages |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs) ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp) |
-| **Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite) ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit) |
-| **Systems** | ![WSL](https://img.shields.io/badge/WSL2-0d1117?style=for-the-badge&logo=windows) ![Hyprland](https://img.shields.io/badge/Hyprland-0d1117?style=for-the-badge&logo=archlinux) |
+| **🌐 Web Dev** | ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3) ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel) |
+| **🐍 Logic** | ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs) ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp) ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql) |
+| **🛡️ Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite) ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit) ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap) ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark) |
+| **⚙️ Infrastructure**| ![WSL](https://img.shields.io/badge/WSL2-0d1117?style=for-the-badge&logo=windows) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker) ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare) ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux) |
 
 ---
 
