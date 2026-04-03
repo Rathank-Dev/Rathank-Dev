@@ -1,11 +1,15 @@
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/d0d9027f-d764-490c-9ab8-ddbb1a676515" /><div align="center">
+<div align="center">
+
+<img width="460" height="460" alt="Rathank Logo" src="https://github.com/user-attachments/assets/d0d9027f-d764-490c-9ab8-ddbb1a676515" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=30&pause=1000&color=FF5F5F&center=true&vCenter=true&width=500&lines=Rathank+Phoung;Cybersecurity+Researcher;Full-stack+Web+Dev)
 
 ---
 
 ### 👤 ABOUT ME
-(https://4kwallpapers.com/images/walls/thumbs_3t/26111.jpg)
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/26111.jpg" width="100%" style="border-radius:15px;" />
+
+<br/>
 
 <table border="0">
   <tr>
@@ -21,6 +25,7 @@
       <h4>📍 Location</h4>
       <ul>
         <li>Phnom Penh, Cambodia 🇰🇭</li>
+        <li>Active since 2017</li>
       </ul>
     </td>
   </tr>
@@ -32,9 +37,9 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat&logo=php) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs) ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat&logo=csharp) |
-| **Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat&logo=kalilinux) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat&logo=burpsuite) ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat&logo=metasploit) |
-| **Systems** | ![WSL](https://img.shields.io/badge/WSL2-0d1117?style=flat&logo=windows) ![Hyprland](https://img.shields.io/badge/Hyprland-0d1117?style=flat&logo=archlinux) |
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs) ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp) |
+| **Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite) ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit) |
+| **Systems** | ![WSL](https://img.shields.io/badge/WSL2-0d1117?style=for-the-badge&logo=windows) ![Hyprland](https://img.shields.io/badge/Hyprland-0d1117?style=for-the-badge&logo=archlinux) |
 
 ---
 
