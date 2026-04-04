@@ -23,7 +23,6 @@
       <h4>Location</h4>
       <ul>
         <li>Phnom Penh, Cambodia 🇰🇭</li>
-        <li>Active since 2017 - 2019</li>
       </ul>
     </td>
   </tr>
